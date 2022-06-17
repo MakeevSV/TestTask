@@ -1,0 +1,8 @@
+config:
+  #Your API key
+  gifApiKey:
+  ratesApiKey:
+  gifUrl: https://api.giphy.com/v1/gifs
+  ratesUrl: https://openexchangerates.org/api
+  baseCurrency: USD
+
